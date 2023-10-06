@@ -3,13 +3,13 @@
 
 ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-8-orange)  ![Java Version](https://img.shields.io/badge/java-v8-red)
 
-## TA7 – Arraylist y Hashtable 🔗
+## TA8 – UD8 - POO 🔮
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 
 Ahora ya puedes acceder a cada uno de los ejercicios, con su enunciado haciendo clic en el siguiente enlaces:
 
-- [UNIDAD C2-T7](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-java-0610-ta08/)
+- [UNIDAD C2-T8](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-java-0610-ta08/)
 
 ### Run Locally 🪄
 
